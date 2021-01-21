@@ -1,0 +1,14 @@
+insert into categoria (nome) values ('Pizza');
+insert into categoria (nome) values ('Hamburger');
+insert into categoria (nome) values ('Sushi');
+insert into categoria (nome) values ('Panino');
+insert into categoria (nome) values ('Croissant');
+insert into categoria (nome) values ('Dolce');
+insert into categoria (nome) values ('Fritto');
+insert into categoria (nome) values ('Snack');
+insert into categoria (nome) values ('Orientale');
+insert into categoria (nome) values ('Vegano');
+insert into categoria (nome) values ('Vegetariano');
+insert into categoria (nome) values ('Italiano');
+insert into categoria (nome) values ('Messicano');
+insert into categoria (nome) values ('Tacos');
