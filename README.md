@@ -21,7 +21,8 @@ Abbiamo bisogno di una webapp che sia in grado di gestire la nostra lista di
 clienti e i loro menù.
 
 Dobbiamo essere in grado di gestire la lista di Ristoranti nostri clienti
-di cui salviamo le seguenti informazioni.
+di cui salviamo le seguenti informazioni:
+
 - ragione sociale
 - piva
 - regione
@@ -32,6 +33,7 @@ di cui salviamo le seguenti informazioni.
 Ogni ristorante ha un menù.
 Il piatti del menù possoni essere divisi in categorie.
 Ma la cosa fondamentale è che ogni piatto abbia le seguenti informazioni:
+
 - nome
 - prezzo
 - la lista degli ingredienti
