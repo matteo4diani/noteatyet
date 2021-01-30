@@ -7,9 +7,9 @@ Questa repository contiene il risultato di un progetto di gruppo nell'ambito del
 
 A questo progetto hanno collaborato:
 
-- Matteo Fordiani (github.com/matteo4diani) - Team Leader, Backend, Frontend, JQuery
-- Eugenio Caltabiano (github.com/gegio98) - Backend, Security, Documentazione Tecnica
-- Hermann Josimar (github.com/josimarhermann) - Frontend, Costruzione Filesystem, Grafica
+- Matteo Fordiani (https://github.com/matteo4diani) - Team Leader, Backend, Frontend, JQuery
+- Eugenio Caltabiano (https://github.com/gegio98) - Backend, Security, Documentazione Tecnica
+- Hermann Josimar (https://github.com/josimarhermann) - Frontend, Costruzione Filesystem, Grafica
 - Linda Pilla (https://github.com/lindapilla) - Frontend, JQuery, Grafica
 
 
